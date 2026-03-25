@@ -4,7 +4,7 @@ Sistema desktop completo para gerenciamento de agendamentos, desenvolvido em Jav
 
 ---
 
-### 📌 Status do Projeto: ✅ **Concluído**
+### 📌 Status do Projeto: **Em Desenvolvimento**
 
 ---
 
