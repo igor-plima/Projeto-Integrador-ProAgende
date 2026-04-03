@@ -50,7 +50,7 @@ A aplicação centraliza informações importantes e automatiza o processo de ma
 - Tela de **Agendamentos Cadastrados** com filtro em cascata:  
   **Serviço → Cliente → Data/Hora**
 - Validações de campos obrigatórios e formatos de dados
-- Interface moderna com tema escuro
+
 
 ---
 
